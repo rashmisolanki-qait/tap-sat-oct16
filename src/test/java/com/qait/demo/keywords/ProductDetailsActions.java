@@ -31,10 +31,12 @@ public class ProductDetailsActions extends GetPage {
 
 	}
 
-	public void AddTheProductToCart() {
-		 Set<String> windows = driver.getWindowHandles();
-		    for(String window : windows)
-		    driver.switchTo().window(window);
+	public void AddTheProductToCart(){
+//		 Set<String> windows = driver.getWindowHandles();
+//		    for(String window : windows)
+//		    driver.switchTo().window(window);
+		
+	
 		    
 		   logMessage("switched to new window.");
 		
@@ -43,5 +45,6 @@ public class ProductDetailsActions extends GetPage {
 		
 		
 	}
-
+   
+	
 }

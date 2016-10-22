@@ -51,14 +51,16 @@ public class ResultsPageActions extends GetPage {
 	public void verifyResults(String yamlValue) {
 		String searchResult = element("txt_searchResult").getText();
 		logMessage("search result" + searchResult +" "+yamlValue);
+		Assert.assertTrue(element("txt_searchResult").getText().contains(yamlValue), "[Assetion Failed]: Wrong search result displayed.");
+		logMessage("[Assertion Passed]: Dislayed search result for"+yamlValue);
 		
-		if(element("txt_searchResult").getText().contains(yamlValue)){
-		logMessage("[Assertion Passed]: Dislayed search result for"+yamlValue);	
-		}
-		else {
-			Assert.fail("[Assetion Failed]: Wrong search result displayed.");
-		//	logMessage("[Assetion Failed]: Wrong search result displayed.");
-		}
+//		if(element("txt_searchResult").getText().contains(yamlValue)){
+//		logMessage("[Assertion Passed]: Dislayed search result for"+yamlValue);	
+//		}
+//		else {
+//			Assert.fail("[Assetion Failed]: Wrong search result displayed.");
+//		//	logMessage("[Assetion Failed]: Wrong search result displayed.");
+//		}
 		
 	}
 	
