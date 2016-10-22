@@ -10,7 +10,6 @@
           <include name="take_screenshot_on_failure"/>
           <include name="Start_Test_Session"/>
           <include name="TestStep4_AddProductToCart"/>
-          <include name="TestStep2_VerifySearchResult"/>
           <include name="close_Test_Session"/>
         </methods>
       </class> <!-- com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented -->

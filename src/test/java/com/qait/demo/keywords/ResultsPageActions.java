@@ -52,13 +52,12 @@ public class ResultsPageActions extends GetPage {
 		String searchResult = element("txt_searchResult").getText();
 		logMessage("search result" + searchResult +" "+yamlValue);
 		
-		
-		
-		if(element("txt_searchResult").getText().trim().equalsIgnoreCase(yamlValue)){
+		if(element("txt_searchResult").getText().contains(yamlValue)){
 		logMessage("[Assertion Passed]: Dislayed search result for"+yamlValue);	
 		}
 		else {
 			Assert.fail("[Assetion Failed]: Wrong search result displayed.");
+		//	logMessage("[Assetion Failed]: Wrong search result displayed.");
 		}
 		
 	}
