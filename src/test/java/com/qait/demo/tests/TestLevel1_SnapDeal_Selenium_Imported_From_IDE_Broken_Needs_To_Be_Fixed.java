@@ -69,7 +69,7 @@ public class TestLevel1_SnapDeal_Selenium_Imported_From_IDE_Broken_Needs_To_Be_F
 	    driver.findElement(By.xpath("(//img[@title = 'Snapdeal' ])[1]")).click();;
 	    driver.findElement(By.xpath("//div[@id='sdHeader']//div[@class='cartInner']/i")).click();
 	    driver.findElement(By.xpath("//div[@id='cartModal']//ul/li[contains(@class,'cart-item')]//a[text()='Redmi Note 3 32 GB']"));
-	    System.out.println("Step 5:  Verified Mobile is Present in cart");
+	    System.out.println("Step 5:  Verified Mobile is added in cart.");
 	    
   }
   

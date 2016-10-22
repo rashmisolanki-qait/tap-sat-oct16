@@ -35,6 +35,8 @@ public class ProductDetailsActions extends GetPage {
 		 Set<String> windows = driver.getWindowHandles();
 		    for(String window : windows)
 		    driver.switchTo().window(window);
+		    
+		   logMessage("switched to new window.");
 		
 		element("//div[@id='add-cart-button-id']/span").click();
 	   logMessage("Click on 'Add to Cart' button.");

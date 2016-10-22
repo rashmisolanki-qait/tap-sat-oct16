@@ -31,7 +31,8 @@ public class CartPageActions extends GetPage {
 	}
 
 	public void verifyCart() {
-		// TODO Auto-generated method stub
+		element("btn_proceedToCheckout").click();
+		logMessage("selected mobile added in cart sucessfully.");
 		
 	}
 
