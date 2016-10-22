@@ -16,6 +16,7 @@ import org.testng.Assert;
 
 import com.qait.automation.getpageobjects.GetPage;
 import com.qait.automation.utils.YamlReader;
+import com.sun.jna.platform.win32.WinUser.HARDWAREINPUT;
 import com.thoughtworks.selenium.Wait;
 import com.thoughtworks.selenium.Wait.WaitTimedOutException;
 
@@ -158,7 +159,10 @@ public class HomePageActions extends GetPage {
 	}
 
 	public void clickSearchIcon() {
-		// TODO Auto-generated method stub
+		if(elements("bnt_search").size()==1){
+		element("bnt_search").click();
+		}
+		logMessage("Clicked on search button");
 		
 	}
 

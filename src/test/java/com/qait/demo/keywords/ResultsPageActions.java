@@ -42,13 +42,22 @@ public class ResultsPageActions extends GetPage {
 
 
 	public void clickFirstProduct() {
-		// TODO Auto-generated method stub
 		
+		element("img_ofFirstSearchResult").click();
+		logMessage("Clicked on First search Result.");
 	}
 
 
 	public void verifyResults(String yamlValue) {
-		// TODO Auto-generated method stub
+		String searchResult = element("txt_searchResult").getText();
+		logMessage("search result" + searchResult );
+		
+		if(element("txt_searchResult").getText().trim().equalsIgnoreCase(yamlValue)){
+		logMessage("[Assertion Passed]: Dislayed search result for"+yamlValue);	
+		}
+		else {
+			Assert.fail("[Assetion Failed]: Wrong search result displayed.");
+		}
 		
 	}
 	
