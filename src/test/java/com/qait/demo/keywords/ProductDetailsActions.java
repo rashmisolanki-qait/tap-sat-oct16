@@ -32,9 +32,9 @@ public class ProductDetailsActions extends GetPage {
 	}
 
 	public void AddTheProductToCart(){
-//		 Set<String> windows = driver.getWindowHandles();
-//		    for(String window : windows)
-//		    driver.switchTo().window(window);
+		 Set<String> windows = driver.getWindowHandles();
+		    for(String window : windows)
+		    driver.switchTo().window(window);
 		
 	
 		    
