@@ -31,10 +31,10 @@ The application url is :- https://www.snapdeal.com]]>
       <![CDATA[ ]]>
     </line>
     <line>
-      <![CDATA[search result"Mobile"]]>
+      <![CDATA[search result"Mobile" Mobile]]>
     </line>
     <line>
-      <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_38_PM\screenshot.png]]>
+      <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_55_PM\screenshot.png]]>
     </line>
     <line>
       <![CDATA[ ]]>
@@ -58,7 +58,7 @@ The application url is :- https://www.snapdeal.com]]>
       <![CDATA[ ]]>
     </line>
     <line>
-      <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_38_PM\screenshot.png]]>
+      <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_55_PM\screenshot.png]]>
     </line>
     <line>
       <![CDATA[ ]]>
@@ -70,19 +70,19 @@ The application url is :- https://www.snapdeal.com]]>
       <![CDATA[ ]]>
     </line>
     <line>
-      <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_38_PM\screenshot.png]]>
+      <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_55_PM\screenshot.png]]>
     </line>
     <line>
       <![CDATA[
 ]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15130" started-at="2016-10-22T09:08:00Z" finished-at="2016-10-22T09:08:15Z">
+  <suite name="Default suite" duration-ms="16167" started-at="2016-10-22T09:25:34Z" finished-at="2016-10-22T09:25:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15130" started-at="2016-10-22T09:08:00Z" finished-at="2016-10-22T09:08:15Z">
+    <test name="Default test" duration-ms="16167" started-at="2016-10-22T09:25:34Z" finished-at="2016-10-22T09:25:50Z">
       <class name="com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented">
-        <test-method status="PASS" signature="Start_Test_Session()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="Start_Test_Session" is-config="true" duration-ms="7755" started-at="2016-10-22T14:38:00Z" finished-at="2016-10-22T14:38:08Z">
+        <test-method status="PASS" signature="Start_Test_Session()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="Start_Test_Session" is-config="true" duration-ms="7987" started-at="2016-10-22T14:55:34Z" finished-at="2016-10-22T14:55:42Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -94,7 +94,7 @@ The application url is :- https://www.snapdeal.com]]>
             </line>
           </reporter-output>
         </test-method> <!-- Start_Test_Session -->
-        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2016-10-22T14:38:08Z" finished-at="2016-10-22T14:38:08Z">
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="2" started-at="2016-10-22T14:55:42Z" finished-at="2016-10-22T14:55:42Z">
           <params>
             <param index="0">
               <value>
@@ -114,14 +114,14 @@ The application url is :- https://www.snapdeal.com]]>
             </line>
           </reporter-output>
         </test-method> <!-- handleTestMethodName -->
-        <test-method status="PASS" signature="TestStep1_SearchProduct()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep1_SearchProduct" duration-ms="2788" started-at="2016-10-22T14:38:08Z" finished-at="2016-10-22T14:38:11Z">
+        <test-method status="PASS" signature="TestStep1_SearchProduct()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep1_SearchProduct" duration-ms="2572" started-at="2016-10-22T14:55:42Z" finished-at="2016-10-22T14:55:45Z">
           <reporter-output>
             <line>
               <![CDATA[Clicked on search button]]>
             </line>
           </reporter-output>
         </test-method> <!-- TestStep1_SearchProduct -->
-        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="1" started-at="2016-10-22T14:38:11Z" finished-at="2016-10-22T14:38:11Z">
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="1" started-at="2016-10-22T14:55:45Z" finished-at="2016-10-22T14:55:45Z">
           <params>
             <param index="0">
               <value>
@@ -132,7 +132,7 @@ The application url is :- https://www.snapdeal.com]]>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- take_screenshot_on_failure -->
-        <test-method status="FAIL" signature="TestStep2_VerifySearchResult()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep2_VerifySearchResult" duration-ms="865" started-at="2016-10-22T14:38:11Z" finished-at="2016-10-22T14:38:11Z">
+        <test-method status="FAIL" signature="TestStep2_VerifySearchResult()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep2_VerifySearchResult" duration-ms="979" started-at="2016-10-22T14:55:45Z" finished-at="2016-10-22T14:55:46Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[[Assetion Failed]: Wrong search result displayed.]]>
@@ -140,7 +140,7 @@ The application url is :- https://www.snapdeal.com]]>
             <full-stacktrace>
               <![CDATA[java.lang.AssertionError: [Assetion Failed]: Wrong search result displayed.
 	at org.testng.Assert.fail(Assert.java:94)
-	at com.qait.demo.keywords.ResultsPageActions.verifyResults(ResultsPageActions.java:59)
+	at com.qait.demo.keywords.ResultsPageActions.verifyResults(ResultsPageActions.java:61)
 	at com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented.TestStep2_VerifySearchResult(TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented.java:58)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
@@ -171,11 +171,11 @@ The application url is :- https://www.snapdeal.com]]>
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[search result"Mobile"]]>
+              <![CDATA[search result"Mobile" Mobile]]>
             </line>
           </reporter-output>
         </test-method> <!-- TestStep2_VerifySearchResult -->
-        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2016-10-22T14:38:11Z" finished-at="2016-10-22T14:38:11Z">
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2016-10-22T14:55:45Z" finished-at="2016-10-22T14:55:45Z">
           <params>
             <param index="0">
               <value>
@@ -195,21 +195,21 @@ The application url is :- https://www.snapdeal.com]]>
             </line>
           </reporter-output>
         </test-method> <!-- handleTestMethodName -->
-        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="517" started-at="2016-10-22T14:38:11Z" finished-at="2016-10-22T14:38:12Z">
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="790" started-at="2016-10-22T14:55:46Z" finished-at="2016-10-22T14:55:46Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TestStep2_VerifySearchResult status=FAILURE method=TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented.TestStep2_VerifySearchResult()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8] output=search result"Mobile"]]]>
+                <![CDATA[[TestResult name=TestStep2_VerifySearchResult status=FAILURE method=TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented.TestStep2_VerifySearchResult()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8] output=search result"Mobile" Mobile]]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_38_PM\screenshot.png]]>
+              <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_55_PM\screenshot.png]]>
             </line>
           </reporter-output>
         </test-method> <!-- take_screenshot_on_failure -->
-        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2016-10-22T14:38:12Z" finished-at="2016-10-22T14:38:12Z">
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2016-10-22T14:55:46Z" finished-at="2016-10-22T14:55:46Z">
           <params>
             <param index="0">
               <value>
@@ -229,14 +229,14 @@ The application url is :- https://www.snapdeal.com]]>
             </line>
           </reporter-output>
         </test-method> <!-- handleTestMethodName -->
-        <test-method status="PASS" signature="TestStep3_SelectFirstProduct()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep3_SelectFirstProduct" duration-ms="314" started-at="2016-10-22T14:38:12Z" finished-at="2016-10-22T14:38:12Z">
+        <test-method status="PASS" signature="TestStep3_SelectFirstProduct()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep3_SelectFirstProduct" duration-ms="246" started-at="2016-10-22T14:55:46Z" finished-at="2016-10-22T14:55:47Z">
           <reporter-output>
             <line>
               <![CDATA[Clicked on First search Result.]]>
             </line>
           </reporter-output>
         </test-method> <!-- TestStep3_SelectFirstProduct -->
-        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="3" started-at="2016-10-22T14:38:12Z" finished-at="2016-10-22T14:38:12Z">
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="1" started-at="2016-10-22T14:55:47Z" finished-at="2016-10-22T14:55:47Z">
           <params>
             <param index="0">
               <value>
@@ -247,7 +247,7 @@ The application url is :- https://www.snapdeal.com]]>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- take_screenshot_on_failure -->
-        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2016-10-22T14:38:12Z" finished-at="2016-10-22T14:38:12Z">
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2016-10-22T14:55:47Z" finished-at="2016-10-22T14:55:47Z">
           <params>
             <param index="0">
               <value>
@@ -267,7 +267,7 @@ The application url is :- https://www.snapdeal.com]]>
             </line>
           </reporter-output>
         </test-method> <!-- handleTestMethodName -->
-        <test-method status="FAIL" signature="TestStep4_AddProductToCart()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep4_AddProductToCart" duration-ms="4" started-at="2016-10-22T14:38:12Z" finished-at="2016-10-22T14:38:12Z">
+        <test-method status="FAIL" signature="TestStep4_AddProductToCart()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep4_AddProductToCart" duration-ms="1" started-at="2016-10-22T14:55:47Z" finished-at="2016-10-22T14:55:47Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -302,7 +302,7 @@ The application url is :- https://www.snapdeal.com]]>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestStep4_AddProductToCart -->
-        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="1361" started-at="2016-10-22T14:38:12Z" finished-at="2016-10-22T14:38:14Z">
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="2226" started-at="2016-10-22T14:55:47Z" finished-at="2016-10-22T14:55:49Z">
           <params>
             <param index="0">
               <value>
@@ -312,11 +312,11 @@ The application url is :- https://www.snapdeal.com]]>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_38_PM\screenshot.png]]>
+              <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_55_PM\screenshot.png]]>
             </line>
           </reporter-output>
         </test-method> <!-- take_screenshot_on_failure -->
-        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2016-10-22T14:38:14Z" finished-at="2016-10-22T14:38:14Z">
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2016-10-22T14:55:49Z" finished-at="2016-10-22T14:55:49Z">
           <params>
             <param index="0">
               <value>
@@ -336,7 +336,7 @@ The application url is :- https://www.snapdeal.com]]>
             </line>
           </reporter-output>
         </test-method> <!-- handleTestMethodName -->
-        <test-method status="FAIL" signature="TestStep5_VerifyCart()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep5_VerifyCart" duration-ms="2" started-at="2016-10-22T14:38:14Z" finished-at="2016-10-22T14:38:14Z">
+        <test-method status="FAIL" signature="TestStep5_VerifyCart()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="TestStep5_VerifyCart" duration-ms="2" started-at="2016-10-22T14:55:49Z" finished-at="2016-10-22T14:55:49Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -371,7 +371,7 @@ The application url is :- https://www.snapdeal.com]]>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestStep5_VerifyCart -->
-        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="937" started-at="2016-10-22T14:38:14Z" finished-at="2016-10-22T14:38:15Z">
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="take_screenshot_on_failure" is-config="true" duration-ms="750" started-at="2016-10-22T14:55:49Z" finished-at="2016-10-22T14:55:50Z">
           <params>
             <param index="0">
               <value>
@@ -381,11 +381,11 @@ The application url is :- https://www.snapdeal.com]]>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_38_PM\screenshot.png]]>
+              <![CDATA[Save Image File Path : D:\AutomationTest\tap-sat-oct16\./target/screenshots/\TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented\2016_10_22_02_55_PM\screenshot.png]]>
             </line>
           </reporter-output>
         </test-method> <!-- take_screenshot_on_failure -->
-        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="close_Test_Session" is-config="true" duration-ms="555" started-at="2016-10-22T14:38:15Z" finished-at="2016-10-22T14:38:15Z">
+        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.qait.demo.tests.TestLevel2_GenericEcommerseSiteTest_Stubs_Written_Method_Needs_To_Be_Implemented@2133c8f8]" name="close_Test_Session" is-config="true" duration-ms="576" started-at="2016-10-22T14:55:50Z" finished-at="2016-10-22T14:55:50Z">
           <reporter-output>
             <line>
               <![CDATA[

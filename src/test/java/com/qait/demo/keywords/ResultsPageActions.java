@@ -50,7 +50,9 @@ public class ResultsPageActions extends GetPage {
 
 	public void verifyResults(String yamlValue) {
 		String searchResult = element("txt_searchResult").getText();
-		logMessage("search result" + searchResult );
+		logMessage("search result" + searchResult +" "+yamlValue);
+		
+		
 		
 		if(element("txt_searchResult").getText().trim().equalsIgnoreCase(yamlValue)){
 		logMessage("[Assertion Passed]: Dislayed search result for"+yamlValue);	
